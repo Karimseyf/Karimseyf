@@ -17,7 +17,7 @@
 
 I'm a Software QA Engineer passionate about software quality, identifying defects, and delivering reliable user experiences.
 
-I have hands-on experience in Manual Testing and API Testing across web and mobile applications, including ERP and POS systems.
+I have hands-on experience in Manual Testing and API Testing across web and mobile applications, including ERP, POS, and e-learning systems.
 
 I focus on understanding requirements, designing effective test scenarios, detecting edge cases, and ensuring software meets its functional and quality expectations.
 
@@ -47,7 +47,7 @@ I focus on understanding requirements, designing effective test scenarios, detec
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=postman,git,github,java,mysql,html,css" />
+<img src="https://skillicons.dev/icons?i=postman,git,github,java,mysql" />
 
 </div>
 
@@ -55,7 +55,7 @@ I focus on understanding requirements, designing effective test scenarios, detec
 
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-Test_Management-0078D7?style=flat-square)
 ![Swagger](https://img.shields.io/badge/Swagger-API_Documentation-85EA2D?style=flat-square)
-![Jira](https://img.shields.io/badge/Jira-Project_Management-0052CC?style=flat-square)
+![Katalon](https://img.shields.io/badge/Katalon-Test_Automation-00BFA5?style=flat-square)
 
 </div>
 
@@ -77,21 +77,48 @@ I focus on understanding requirements, designing effective test scenarios, detec
 
 ## 🚀 Projects
 
-### ERP & POS System Testing
+### 🏢 7l ERP & POS System
 
-- Tested business-critical workflows across ERP and POS modules.
-- Validated inventory, sales, invoices, returns, and financial operations.
-- Designed test scenarios for different user roles and permissions.
-- Identified critical defects affecting business operations.
-- Performed functional, regression, and exploratory testing.
+**ERP | POS | Web Application | Manual Testing | API Testing**
 
-### Mobile Application Testing
+- Tested ERP and POS business workflows across multiple modules.
+- Validated sales, inventory, warehouses, invoices, returns, and financial operations.
+- Tested user roles, permissions, and business rules.
+- Designed and executed functional and regression test cases.
+- Performed API testing and validated backend business logic.
+- Reported and tracked defects using Azure DevOps.
 
-- Tested Android and iOS mobile applications.
-- Validated application functionality and user experience.
+**Key Areas:** Sales, Inventory, Warehouses, Financial Operations, User Permissions.
+
+---
+
+### 📱 Wassny – Mobile Application & Admin Portal
+
+**Android | iOS | Web Admin Panel | Manual Testing | API Testing**
+
+- Responsible for testing the project across mobile applications and the centralized web admin panel.
+- Tested Android and iOS application functionality.
+- Validated admin portal workflows and user management.
 - Performed API testing and backend validation.
-- Tested different scenarios and edge cases.
-- Managed defects throughout the testing lifecycle.
+- Designed test scenarios covering end-to-end application workflows.
+- Identified, documented, and tracked defects throughout the testing process.
+
+**Platforms:** Android, iOS, Web.
+
+---
+
+### 🎓 WinjiGo – E-Learning Platform
+
+**Web Application | API Testing | Regression Testing | Test Automation**
+
+- Reviewed requirements and analyzed application functionality.
+- Designed and executed test cases for different features.
+- Performed functional and regression testing.
+- Conducted API testing using Postman and Swagger.
+- Reported and tracked defects using TFS.
+- Worked with Katalon for test automation.
+
+**Key Areas:** E-Learning, Functional Testing, API Validation, Regression Testing.
 
 ---
 
